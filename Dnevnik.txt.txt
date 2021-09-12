@@ -1,1 +1,3 @@
 Ovo je dnevnik jednog programera.
+ovdje programer pise kako programira.
+
